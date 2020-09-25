@@ -1,0 +1,13 @@
+{
+  "child": [
+    {
+      "name": "Child 1",
+      "hasChild": true
+    },
+    {
+      "name": "Child 2",
+      "hasChild": true
+    },
+    { "name": "Child 3", "hasChild": false }
+  ]
+}
